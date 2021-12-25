@@ -1,3 +1,7 @@
+/LazySingletonPattern.class
 /Main.class
 /SingletonPattern.class
-/LazySingletonPattern.class
+/ThreadedLazySingleton.class
+/ThreadedLazySingletonClient.class
+/ThreadSafeLazySingleton.class
+/ThreadSafeLazySingletonClient.class
