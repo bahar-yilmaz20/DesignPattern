@@ -2,6 +2,8 @@ import java.time.LocalDateTime;
 
 import javax.print.attribute.standard.DateTimeAtCreation;
 
+import SingletonPattern.SingletonPattern;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -20,6 +22,8 @@ public class Main {
 		
 		SingletonPattern s2= SingletonPattern.getInstance();
 		System.out.println("\nHashcode: "+s2.hashCode());
+		
+		 
 		
 		
 		
